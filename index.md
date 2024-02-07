@@ -41,7 +41,7 @@ Our dataset contains three parts.
 3) a four-year coarse-grained dataset (collected by BTS-APP operation team). 
 
 The first part was released at [here](https://github.com/mobilebandwidth/mobilebandwidth.github.io/tree/main/data).
-For the second part, currently we have released a portion of the representative sample data (with proper anonymization) belonging to the former dataset for references, including the fine-grained collected data of 5K tests in 4G, 5G, and WiFi 4, 5, 6 access technologies (1K tests each). These data are organized in 4G.csv, 5G.csv, wifi4.csv, wifi5.csv, and wifi6.csv, respectively (for detailed data, please click [here](https://github.com/mobilebandwidth/mobilebandwidth.github.io/tree/main/data)). For each CSV file, we list the specific information coupled with the regarding description as follows. As to the last part, we are still dicussing with the authority to what extend can it be released.
+For the second part, currently we have released a portion of the representative sample data (with proper anonymization) belonging to the former dataset for references, including the fine-grained collected data of 5K tests in 4G, 5G, and WiFi 4, 5, 6 access technologies (1K tests each). These data are organized in 4G.csv, 5G.csv, wifi4.csv, wifi5.csv, and wifi6.csv, respectively (for detailed data, please click [here](https://github.com/MobileBandwidthEvolution/MobileBandwidthEvolution.github.io/tree/main/data)). For each CSV file, we list the specific information coupled with the regarding description as follows. As to the last part, we are still dicussing with the authority to what extend can it be released.
 
 ### 4G.csv
 
